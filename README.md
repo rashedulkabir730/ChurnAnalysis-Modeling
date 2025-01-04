@@ -1,6 +1,6 @@
 # ChurnAnalysis-Modeling
 
-https://storage.googleapis.com/kaggle-datasets-images/6324701/10229427/7d2d2032e70fe146278eea18b14b740b/dataset-cover.png?t=2024-12-17-19-28-26![image](https://github.com/user-attachments/assets/103b69b3-ba9a-4b35-aa29-91331ee2e92f)
+![image](https://github.com/user-attachments/assets/103b69b3-ba9a-4b35-aa29-91331ee2e92f)
 
 
 
