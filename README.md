@@ -1,10 +1,10 @@
-# ChurnAnalysis-Modeling
+# Customer Churn Analysis and Prediction
 
 ![image](https://github.com/user-attachments/assets/103b69b3-ba9a-4b35-aa29-91331ee2e92f)
 
 
 
-# Customer Churn Analysis and Prediction
+
 
 ## Overview  
 This project focuses on understanding and predicting customer churn using advanced data analysis and machine learning techniques. The analysis identifies key factors contributing to churn and develops predictive models to support strategic decision-making aimed at customer retention.
