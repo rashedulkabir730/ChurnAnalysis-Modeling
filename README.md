@@ -32,9 +32,3 @@ This project focuses on understanding and predicting customer churn using advanc
 - **Environment**: Jupyter Notebooks  
 - **Version Control**: GitHub
 - **Dataset: https://www.kaggle.com/datasets/hassanelfattmi/why-do-customers-leave-can-you-spot-the-churners
-
-## Results  
-Achieved a significant improvement in predictive accuracy, enabling data-driven strategies to mitigate churn and enhance customer retention.
-
-
-
